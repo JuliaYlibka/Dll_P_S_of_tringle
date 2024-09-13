@@ -1,0 +1,4 @@
+LIBRARY Dll_P_S_of_tringle
+EXPORTS
+  P @1
+  S @2
